@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0CD4FEBA225D76FA18CA02B80526004C1FE135C5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0CD4FEBA225D76FA18CA02B80526004C1FE135C5" : 9223372036854775807,
+    "27220D833A142FEAB0C19DA932E7D4ED917B5BAD" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D285CB07-4449-40B9-8580-BFEACFCFD6B8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0CD4FEBA225D76FA18CA02B80526004C1FE135C5" : "swift-interfaceBuilder-lab-swift-intro-000\/",
+    "27220D833A142FEAB0C19DA932E7D4ED917B5BAD" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SimonSays",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SimonSays\/SimonSays.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Dor-Ron\/swift-interfaceBuilder-lab-swift-intro-000.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0CD4FEBA225D76FA18CA02B80526004C1FE135C5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Dor-Ron\/Introduction_to_Swift_and_iOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "27220D833A142FEAB0C19DA932E7D4ED917B5BAD"
+    }
+  ]
+}
